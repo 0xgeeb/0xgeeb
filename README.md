@@ -1,4 +1,4 @@
-### Hey, I'm 0xgeeb or geeb.eth 👋
+### Hey I'm geeb 👋
 
 
 - 🔭 I’m currently working on <a href="https://github.com/0xgeeb/goldilocks/">Goldilocks - Novel AMM & NFT Lending Protocol</a>
