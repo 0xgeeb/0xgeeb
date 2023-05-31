@@ -1,7 +1,10 @@
 ### Hey I'm geeb 👋
 
 
-- 🔭 I’m currently working on <a href="https://github.com/0xgeeb/goldilocks/">Goldilocks - Novel AMM & NFT Lending Protocol</a>
+🔭 I’m currently working on 
+  - <a href="https://github.com/0xgeeb/goldilocks/">Goldilocks - Novel AMM & NFT Lending Protocol</a>
+  - LSDex - Capital Efficient LSD dex
+  - geebwatch - On-chain Analytics Discord Bot
 
 
 ### Get In Touch
