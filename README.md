@@ -3,7 +3,6 @@
 
 🔭 I’m currently working on 
   - <a href="https://github.com/0xgeeb/goldilocks/">Goldilocks - Novel AMM & NFT Lending Protocol</a>
-  - LSDex - Capital Efficient LSD Dex
   - geebwatch - Onchain Analytics Discord Bot
 
 
